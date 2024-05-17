@@ -1,4 +1,4 @@
-#V UE Todo List
+# VUE Todo List
 
 [![My Skills](https://skillicons.dev/icons?i=js,vue,html,css)](https://skillicons.dev)
 
